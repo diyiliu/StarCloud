@@ -1,0 +1,4 @@
+rootProject.name = 'StarCloud'
+include 'gwSrc'
+include 'procSrc'
+

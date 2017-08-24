@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/StarCloud.iml" filepath="$PROJECT_DIR$/.idea/modules/StarCloud.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/StarCloud_main.iml" filepath="$PROJECT_DIR$/.idea/modules/StarCloud_main.iml" group="StarCloud" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/StarCloud_test.iml" filepath="$PROJECT_DIR$/.idea/modules/StarCloud_test.iml" group="StarCloud" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/gwSrc.iml" filepath="$PROJECT_DIR$/.idea/modules/gwSrc.iml" group="gwSrc" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/gwSrc/gwSrc_main.iml" filepath="$PROJECT_DIR$/.idea/modules/gwSrc/gwSrc_main.iml" group="gwSrc" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/gwSrc/gwSrc_test.iml" filepath="$PROJECT_DIR$/.idea/modules/gwSrc/gwSrc_test.iml" group="gwSrc" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/procSrc.iml" filepath="$PROJECT_DIR$/.idea/modules/procSrc.iml" group="procSrc" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/procSrc/procSrc_main.iml" filepath="$PROJECT_DIR$/.idea/modules/procSrc/procSrc_main.iml" group="procSrc" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/procSrc/procSrc_test.iml" filepath="$PROJECT_DIR$/.idea/modules/procSrc/procSrc_test.iml" group="procSrc" />
+    </modules>
+  </component>
+</project>
